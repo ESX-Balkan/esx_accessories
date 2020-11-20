@@ -156,9 +156,7 @@ CreateThread(function()
 			HasAlreadyEnteredMarker = false
 			TriggerEvent('esx_accessories:hasExitedMarker', LastZone)
 		end
-		if letSleep then
-			Wait(1000)
-		end
+		if letSleep then Wait(1000) end
 	end
 end)
 -- Kontrole
