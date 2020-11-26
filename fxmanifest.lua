@@ -1,6 +1,5 @@
-fx_version 'adamant'
-
-game 'gta5'
+fx_version 'cerulean'
+games { 'rdr3', 'gta5' }
 
 description 'ESX Accessories'
 
